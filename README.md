@@ -1,8 +1,6 @@
-# Muhammad
+# Muhammad (Buildwithmuhd)
 
-Frontend Engineer focused on TypeScript and Next.js.
-
-I build fast, scalable, production-grade web applications with clean architecture and strong UI systems.
+Frontend Engineer and AppSec Engineer. I build production web apps with TypeScript and Next.js, and I'm going deep on application security — finding and fixing the vulnerabilities in the kind of apps I build.
 
 ---
 
@@ -14,6 +12,11 @@ I build fast, scalable, production-grade web applications with clean architectur
 - React Query
 - Node.js (when required)
 
+## Security Toolkit
+- Burp Suite
+- OWASP Top 10 / Web Security Testing Guide
+- Semgrep, Trivy, Gitleaks
+
 ---
 
 ## What I Build
@@ -21,16 +24,19 @@ I build fast, scalable, production-grade web applications with clean architectur
 - Dashboard systems
 - High-performance web apps
 - Scalable UI architecture
+- Secure-by-design applications (RLS, input validation, auth hardening)
 
 ---
 
 ## Current Focus
-- Advanced TypeScript patterns
-- Performance optimization in Next.js
-- Scalable frontend architecture
+- Application security fundamentals: XSS, IDOR, access control, auth flaws
+- Breaking down and documenting web vulnerabilities through write-ups and CTFs
+- Advanced TypeScript patterns and performance optimization in Next.js
+- Scalable, secure frontend architecture
 
 ---
 
 ## Connect
 LinkedIn: https://linkedin.com/in/Muhammad_
 Email: muhammadhabbibi24434@gmail.com
+GitHub: [@buildwithmuhd](https://github.com/buildwithmuhd)
